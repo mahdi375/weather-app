@@ -1,0 +1,4 @@
+#> npm run serve     ***works perfect***
+
+#> npm run build     ***does not work***
+#> node_modules/.bin/webpack --mode production    ***works well***
